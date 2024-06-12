@@ -1,0 +1,14 @@
+.box
+{
+    width:600px;
+    height:450px;
+    margin:20px solid violet;
+    padding:50px solid yellow;
+    border:15px solid palevioletred;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
